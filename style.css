@@ -1,0 +1,65 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    height: 100hv;
+    width: 100%;
+}
+.images{
+    height: 100px;
+    width: 200px;
+    display: flex;
+    padding: 20px;
+}
+.nav-item{
+    margin: 0px 50px;
+    padding: 2px;
+
+}
+
+.secondimg{
+    height: 300px;
+    width: 100%;
+    border-radius: 20px;
+    
+    
+}
+.colo{
+    background-color: #252526;
+    color: grey;
+}
+.nav-item{
+    padding-bottom: 20px;
+}
+.bikes{
+    position: absolute;
+    margin-left: 45px;
+}
+.stay{
+    position: relative;
+    border-radius: 20px;
+    background-color: #d7d6d6;
+}
+.images:hover{
+    height: 110px;
+    width: 220px;
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl{
+    padding-left: 0%;
+    --bs-gutter-x: 0rem;
+}
+.gam{
+    text-align: center;
+    margin-top: 20px;
+}
+.color{
+    border-radius: 20px;
+    background-color: red;
+}
+.a{
+    margin-left: 5px;
+}
+.lore{
+    margin: 15px;
+    color: white;
+}
